@@ -10,7 +10,7 @@ export default function CPAConsultant() {
         <div className="container mx-auto flex items-center justify-between px-4 py-4">
           <div className="flex items-center gap-2">
             <DollarSign className="h-8 w-8 text-primary" />
-            <span className="text-xl font-bold">CPA Consulting</span>
+            <span className="text-xl font-bold">Aminga and CO Associates</span>
           </div>
           <nav className="hidden md:flex gap-8">
             <a href="#services" className="text-sm hover:text-primary transition-colors">Services</a>
@@ -34,10 +34,10 @@ export default function CPAConsultant() {
         <div className="container mx-auto relative z-10 px-4">
           <div className="max-w-2xl">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-              Strategic Tax & Financial Consulting for Your Business
+              Your Trusted CPA Partner for Financial Excellence
             </h1>
             <p className="text-lg text-muted-foreground mb-8">
-              Expert CPA services designed to minimize your tax burden, optimize finances, and accelerate growth. Trusted by 500+ businesses nationwide.
+              Aminga and CO Associates delivers expert tax planning, accounting, and financial consulting to help your business thrive. Trusted by leading companies.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="group">
@@ -214,7 +214,7 @@ export default function CPAConsultant() {
       {/* Footer */}
       <footer className="border-t border-border py-8 bg-secondary/5">
         <div className="container mx-auto px-4 text-center text-muted-foreground text-sm">
-          <p>&copy; 2024 CPA Consulting. All rights reserved.</p>
+          <p>&copy; 2024 Aminga and CO Associates. All rights reserved.</p>
         </div>
       </footer>
     </div>
